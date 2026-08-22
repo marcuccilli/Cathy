@@ -7,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,poster.starhubgo.com
   - DOMAIN-SUFFIX,pullgz721.qmuiw.com
   - DOMAIN-SUFFIX,resource.nj82wbp.top
+  - DOMAIN-SUFFIX,volc-stream.kksmg.com
+  - IP-CIDR,104.166.141.0/24
+  - IP-CIDR,104.166.159.0/24
   - IP-CIDR,104.17.207.0/24
   - IP-CIDR,104.17.208.0/24
   - IP-CIDR,104.21.78.0/24
@@ -19,6 +22,7 @@ payload:
   - IP-CIDR,117.24.165.0/24
   - IP-CIDR,117.33.185.0/24
   - IP-CIDR,117.40.144.0/24
+  - IP-CIDR,117.86.166.0/24
   - IP-CIDR,119.41.82.0/24
   - IP-CIDR,120.39.218.0/24
   - IP-CIDR,120.41.32.0/24
@@ -64,3 +68,4 @@ payload:
   - IP-CIDR,60.188.66.0/24
   - IP-CIDR,61.147.237.0/24
   - IP-CIDR,61.170.57.0/24
+  - IP-CIDR,82.156.243.0/24
