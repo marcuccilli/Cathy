@@ -1,6 +1,9 @@
 domain:events.waastudios.dpdns.org
 domain:i.postimg.cc
 domain:poster.starhubgo.com
+104.21.78.230/32
+162.251.63.43/32
+172.67.137.245/32
 188.114.96.3/32
 188.114.97.3/32
 195.154.239.25/32
