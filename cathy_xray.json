@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "type": "field",
+      "outboundTag": "direct",
+      "domain": [
+        "domain:events.waastudios.dpdns.org",
+        "domain:i.postimg.cc",
+        "domain:poster.starhubgo.com"
+      ],
+      "ip": [
+        "188.114.96.3/32",
+        "188.114.97.3/32",
+        "195.154.239.25/32",
+        "195.154.239.26/31",
+        "203.118.51.16/32",
+        "203.118.51.24/32"
+      ]
+    }
+  ]
+}
