@@ -4,18 +4,28 @@
       "type": "field",
       "outboundTag": "direct",
       "domain": [
+        "domain:cdn.nodeimage.com",
+        "domain:data.jeffreyedwardepstein.workers.dev",
         "domain:events.waastudios.dpdns.org",
         "domain:i.postimg.cc",
-        "domain:poster.starhubgo.com"
+        "domain:poster.starhubgo.com",
+        "domain:ppv.waastudios.dpdns.org",
+        "domain:rally-tv-live.akamaized.net",
+        "domain:static.assetstorage.net"
       ],
       "ip": [
+        "104.21.72.88/32",
         "104.21.78.230/32",
         "162.251.63.43/32",
         "172.67.137.245/32",
+        "172.67.178.193/32",
         "188.114.96.3/32",
         "188.114.97.3/32",
+        "192.166.82.0/24",
         "195.154.239.25/32",
         "195.154.239.26/31",
+        "2.21.22.113/32",
+        "2.21.22.123/32",
         "203.118.51.16/32",
         "203.118.51.24/32"
       ]
