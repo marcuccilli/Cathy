@@ -4,6 +4,7 @@
       "type": "field",
       "outboundTag": "direct",
       "domain": [
+        "domain:api.ppv.st",
         "domain:cdn.nodeimage.com",
         "domain:data.jeffreyedwardepstein.workers.dev",
         "domain:events.waastudios.dpdns.org",
@@ -25,6 +26,7 @@
         "172.67.200.183/32",
         "188.114.96.3/32",
         "188.114.97.3/32",
+        "190.115.31.207/32",
         "195.154.239.25/32",
         "195.154.239.26/31",
         "2.21.22.104/32",
