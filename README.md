@@ -32,6 +32,13 @@ https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_surge.
 
 
 
+########   Anywhere   ########   arrs格式
+
+https://raw.githubusercontent.com/marcuccilli/Cathy//refs/heads/main/iptv_anywhere.arrs
+
+
+
+
 
 
 ########   Passwall   ########   txt格式，须手动在分流规则分别填写域名和cidr
