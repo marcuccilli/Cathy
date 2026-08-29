@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_surge.
 
 ########   Anywhere   ########   arrs格式
 
-https://raw.githubusercontent.com/marcuccilli/Cathy//refs/heads/main/iptv_anywhere.arrs
+https://raw.githubusercontent.com/marcuccilli/Cathy//refs/heads/main/cathy_anywhere.arrs
 
 
 
