@@ -1,12 +1,13 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 10
+# RULES: 11
 # SOURCES:
 # - https://events.waastudios.dpdns.org/sub/wDIWWCqpBc4hvIBFOXCX8ZrhPEOPCyjV/playlist.m3u
 # - https://ppv.waastudios.dpdns.org/ppv.m3u
 
 name = Cathy 源
 2, cdn.nodeimage.com
+2, data.havanagila.workers.dev
 2, data.jeffreyedwardepstein.workers.dev
 2, data.netflixservices.workers.dev
 2, encrypted-tbn0.gstatic.com

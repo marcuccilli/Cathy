@@ -1,4 +1,5 @@
 domain:cdn.nodeimage.com
+domain:data.havanagila.workers.dev
 domain:data.jeffreyedwardepstein.workers.dev
 domain:data.netflixservices.workers.dev
 domain:encrypted-tbn0.gstatic.com
