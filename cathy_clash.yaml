@@ -10,3 +10,5 @@ payload:
   - DOMAIN-SUFFIX,ppv.waastudios.dpdns.org
   - DOMAIN-SUFFIX,rally-tv-live.akamaized.net
   - DOMAIN-SUFFIX,static.ppvservices.st
+  - IP-CIDR,107.148.225.0/24
+  - IP-CIDR,192.142.57.0/24

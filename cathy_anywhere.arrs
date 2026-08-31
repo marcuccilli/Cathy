@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11
+# RULES: 13
 # SOURCES:
 # - http://events.waastudios.dpdns.org:8877/sub/wDIWWCqpBc4hvIBFOXCX8ZrhPEOPCyjV/playlist.m3u
 # - http://ppv.waastudios.dpdns.org:8866/ppv.m3u
@@ -17,3 +17,5 @@ name = Cathy 源
 2, ppv.waastudios.dpdns.org
 2, rally-tv-live.akamaized.net
 2, static.ppvservices.st
+0, 107.148.225.0/24
+0, 192.142.57.0/24
