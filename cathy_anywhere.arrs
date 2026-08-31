@@ -2,8 +2,8 @@
 # GENERATED-FOR: Anywhere Routing Rule Set
 # RULES: 11
 # SOURCES:
-# - https://events.waastudios.dpdns.org/sub/wDIWWCqpBc4hvIBFOXCX8ZrhPEOPCyjV/playlist.m3u
-# - https://ppv.waastudios.dpdns.org/ppv.m3u
+# - http://events.waastudios.dpdns.org:8877/sub/wDIWWCqpBc4hvIBFOXCX8ZrhPEOPCyjV/playlist.m3u
+# - http://ppv.waastudios.dpdns.org:8866/ppv.m3u
 
 name = Cathy 源
 2, cdn.nodeimage.com
