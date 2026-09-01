@@ -1,4 +1,7 @@
+DOMAIN-SUFFIX,ad8147ee.cbilant.com
+DOMAIN-SUFFIX,as01.plinkspile.cc
 DOMAIN-SUFFIX,beam-images.warnermediacdn.com
+DOMAIN-SUFFIX,cdn.nl04.plinkspile.cc
 DOMAIN-SUFFIX,cdn.nodeimage.com
 DOMAIN-SUFFIX,data.havanagila.workers.dev
 DOMAIN-SUFFIX,data.jeffreyedwardepstein.workers.dev
@@ -12,3 +15,4 @@ DOMAIN-SUFFIX,rally-tv-live.akamaized.net
 DOMAIN-SUFFIX,static.ppvservices.st
 IP-CIDR,107.148.225.0/24
 IP-CIDR,192.142.57.0/24
+IP-CIDR,194.59.155.0/24

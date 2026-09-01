@@ -1,12 +1,15 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 14
+# RULES: 18
 # SOURCES:
 # - http://events.waastudios.dpdns.org:8877/sub/wDIWWCqpBc4hvIBFOXCX8ZrhPEOPCyjV/playlist.m3u
 # - http://ppv.waastudios.dpdns.org:8866/ppv.m3u
 
 name = Cathy 源
+2, ad8147ee.cbilant.com
+2, as01.plinkspile.cc
 2, beam-images.warnermediacdn.com
+2, cdn.nl04.plinkspile.cc
 2, cdn.nodeimage.com
 2, data.havanagila.workers.dev
 2, data.jeffreyedwardepstein.workers.dev
@@ -20,3 +23,4 @@ name = Cathy 源
 2, static.ppvservices.st
 0, 107.148.225.0/24
 0, 192.142.57.0/24
+0, 194.59.155.0/24

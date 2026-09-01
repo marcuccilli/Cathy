@@ -1,4 +1,7 @@
+domain:ad8147ee.cbilant.com
+domain:as01.plinkspile.cc
 domain:beam-images.warnermediacdn.com
+domain:cdn.nl04.plinkspile.cc
 domain:cdn.nodeimage.com
 domain:data.havanagila.workers.dev
 domain:data.jeffreyedwardepstein.workers.dev
@@ -12,3 +15,4 @@ domain:rally-tv-live.akamaized.net
 domain:static.ppvservices.st
 107.148.225.0/24
 192.142.57.0/24
+194.59.155.0/24
