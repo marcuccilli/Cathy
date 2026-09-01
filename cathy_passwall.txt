@@ -1,3 +1,4 @@
+domain:beam-images.warnermediacdn.com
 domain:cdn.nodeimage.com
 domain:data.havanagila.workers.dev
 domain:data.jeffreyedwardepstein.workers.dev
