@@ -16,15 +16,18 @@
         "domain:encrypted-tbn0.gstatic.com",
         "domain:events.waastudios.dpdns.org",
         "domain:i.postimg.cc",
+        "domain:iptv.852851.xyz",
         "domain:poster.starhubgo.com",
         "domain:ppv.waastudios.dpdns.org",
         "domain:rally-tv-live.akamaized.net",
+        "domain:shalo.amazzin.pw",
         "domain:static.ppvservices.st"
       ],
       "ip": [
         "107.148.225.0/24",
         "192.142.57.0/24",
-        "194.59.155.0/24"
+        "194.59.155.0/24",
+        "213.109.154.0/24"
       ]
     }
   ]

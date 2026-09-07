@@ -11,10 +11,13 @@ payload:
   - DOMAIN-SUFFIX,encrypted-tbn0.gstatic.com
   - DOMAIN-SUFFIX,events.waastudios.dpdns.org
   - DOMAIN-SUFFIX,i.postimg.cc
+  - DOMAIN-SUFFIX,iptv.852851.xyz
   - DOMAIN-SUFFIX,poster.starhubgo.com
   - DOMAIN-SUFFIX,ppv.waastudios.dpdns.org
   - DOMAIN-SUFFIX,rally-tv-live.akamaized.net
+  - DOMAIN-SUFFIX,shalo.amazzin.pw
   - DOMAIN-SUFFIX,static.ppvservices.st
   - IP-CIDR,107.148.225.0/24
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,194.59.155.0/24
+  - IP-CIDR,213.109.154.0/24
