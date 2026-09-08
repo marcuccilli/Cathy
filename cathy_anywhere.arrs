@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 22
+# RULES: 24
 
 name = Cathy 源
 2, ad8147ee.cbilant.com
@@ -10,6 +10,7 @@ name = Cathy 源
 2, cdn.nodeimage.com
 2, data.havanagila.workers.dev
 2, data.jeffreyedwardepstein.workers.dev
+2, data.manchestercity.workers.dev
 2, data.netflixservices.workers.dev
 2, data.ossiketola.workers.dev
 2, encrypted-tbn0.gstatic.com
@@ -25,3 +26,4 @@ name = Cathy 源
 0, 192.142.57.0/24
 0, 194.59.155.0/24
 0, 213.109.154.0/24
+0, 5.182.228.0/24

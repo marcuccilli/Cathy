@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.nodeimage.com
   - DOMAIN-SUFFIX,data.havanagila.workers.dev
   - DOMAIN-SUFFIX,data.jeffreyedwardepstein.workers.dev
+  - DOMAIN-SUFFIX,data.manchestercity.workers.dev
   - DOMAIN-SUFFIX,data.netflixservices.workers.dev
   - DOMAIN-SUFFIX,data.ossiketola.workers.dev
   - DOMAIN-SUFFIX,encrypted-tbn0.gstatic.com
@@ -21,3 +22,4 @@ payload:
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,194.59.155.0/24
   - IP-CIDR,213.109.154.0/24
+  - IP-CIDR,5.182.228.0/24

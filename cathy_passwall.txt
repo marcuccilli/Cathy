@@ -5,6 +5,7 @@ domain:cdn.nl04.plinkspile.cc
 domain:cdn.nodeimage.com
 domain:data.havanagila.workers.dev
 domain:data.jeffreyedwardepstein.workers.dev
+domain:data.manchestercity.workers.dev
 domain:data.netflixservices.workers.dev
 domain:data.ossiketola.workers.dev
 domain:encrypted-tbn0.gstatic.com
@@ -20,3 +21,4 @@ domain:static.ppvservices.st
 192.142.57.0/24
 194.59.155.0/24
 213.109.154.0/24
+5.182.228.0/24
