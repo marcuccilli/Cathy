@@ -12,6 +12,7 @@ domain:encrypted-tbn0.gstatic.com
 domain:events.waastudios.dpdns.org
 domain:i.postimg.cc
 domain:iptv.852851.xyz
+domain:netanyahu.indianservers.st
 domain:poster.starhubgo.com
 domain:ppv.waastudios.dpdns.org
 domain:rally-tv-live.akamaized.net
