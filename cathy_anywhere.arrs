@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 30
+# RULES: 31
 
 name = Cathy 源
 2, ad8147ee.cbilant.com
@@ -31,5 +31,6 @@ name = Cathy 源
 0, 192.142.57.0/24
 0, 194.59.155.0/24
 0, 213.109.154.0/24
+0, 23.214.22.0/24
 0, 23.33.29.0/24
 0, 5.182.228.0/24
