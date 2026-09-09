@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 24
+# RULES: 25
 
 name = Cathy 源
 2, ad8147ee.cbilant.com
@@ -21,6 +21,7 @@ name = Cathy 源
 2, ppv.waastudios.dpdns.org
 2, rally-tv-live.akamaized.net
 2, shalo.amazzin.pw
+2, shiva.indianservers.st
 2, static.ppvservices.st
 0, 107.148.225.0/24
 0, 192.142.57.0/24
