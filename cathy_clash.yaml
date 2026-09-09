@@ -21,8 +21,11 @@ payload:
   - DOMAIN-SUFFIX,shalo.amazzin.pw
   - DOMAIN-SUFFIX,shiva.indianservers.st
   - DOMAIN-SUFFIX,static.ppvservices.st
+  - IP-CIDR,104.21.51.0/24
   - IP-CIDR,107.148.225.0/24
+  - IP-CIDR,172.67.215.0/24
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,194.59.155.0/24
   - IP-CIDR,213.109.154.0/24
+  - IP-CIDR,23.33.29.0/24
   - IP-CIDR,5.182.228.0/24

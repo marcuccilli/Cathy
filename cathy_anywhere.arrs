@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 27
+# RULES: 30
 
 name = Cathy 源
 2, ad8147ee.cbilant.com
@@ -25,8 +25,11 @@ name = Cathy 源
 2, shalo.amazzin.pw
 2, shiva.indianservers.st
 2, static.ppvservices.st
+0, 104.21.51.0/24
 0, 107.148.225.0/24
+0, 172.67.215.0/24
 0, 192.142.57.0/24
 0, 194.59.155.0/24
 0, 213.109.154.0/24
+0, 23.33.29.0/24
 0, 5.182.228.0/24
