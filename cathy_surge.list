@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,events.waastudios.dpdns.org
 DOMAIN-SUFFIX,i.postimg.cc
 DOMAIN-SUFFIX,iptv.852851.xyz
 DOMAIN-SUFFIX,love.old-snowflake-b051.workers.dev
+DOMAIN-SUFFIX,love.smooth-puppy-9643.workers.dev
 DOMAIN-SUFFIX,netanyahu.indianservers.st
 DOMAIN-SUFFIX,poster.starhubgo.com
 DOMAIN-SUFFIX,ppv.waastudios.dpdns.org
@@ -20,8 +21,10 @@ DOMAIN-SUFFIX,rally-tv-live.akamaized.net
 DOMAIN-SUFFIX,shalo.amazzin.pw
 DOMAIN-SUFFIX,shiva.indianservers.st
 DOMAIN-SUFFIX,static.ppvservices.st
+IP-CIDR,104.21.27.0/24
 IP-CIDR,104.21.51.0/24
 IP-CIDR,107.148.225.0/24
+IP-CIDR,172.67.142.0/24
 IP-CIDR,172.67.215.0/24
 IP-CIDR,192.142.57.0/24
 IP-CIDR,194.59.155.0/24

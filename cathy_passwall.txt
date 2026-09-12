@@ -13,6 +13,7 @@ domain:events.waastudios.dpdns.org
 domain:i.postimg.cc
 domain:iptv.852851.xyz
 domain:love.old-snowflake-b051.workers.dev
+domain:love.smooth-puppy-9643.workers.dev
 domain:netanyahu.indianservers.st
 domain:poster.starhubgo.com
 domain:ppv.waastudios.dpdns.org
@@ -20,8 +21,10 @@ domain:rally-tv-live.akamaized.net
 domain:shalo.amazzin.pw
 domain:shiva.indianservers.st
 domain:static.ppvservices.st
+104.21.27.0/24
 104.21.51.0/24
 107.148.225.0/24
+172.67.142.0/24
 172.67.215.0/24
 192.142.57.0/24
 194.59.155.0/24
