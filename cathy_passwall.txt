@@ -10,6 +10,7 @@ domain:data.netflixservices.workers.dev
 domain:data.ossiketola.workers.dev
 domain:encrypted-tbn0.gstatic.com
 domain:events.waastudios.dpdns.org
+domain:hbmt55gdtp6fvzuq.public.blob.vercel-storage.com
 domain:i.postimg.cc
 domain:iptv.852851.xyz
 domain:love.old-snowflake-b051.workers.dev
@@ -34,4 +35,5 @@ domain:static.ppvservices.st
 23.33.29.0/24
 23.39.51.0/24
 23.62.226.0/24
+3.22.103.0/24
 5.182.228.0/24

@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 37
+# RULES: 39
 
 name = Cathy 源
 2, ad8147ee.cbilant.com
@@ -15,6 +15,7 @@ name = Cathy 源
 2, data.ossiketola.workers.dev
 2, encrypted-tbn0.gstatic.com
 2, events.waastudios.dpdns.org
+2, hbmt55gdtp6fvzuq.public.blob.vercel-storage.com
 2, i.postimg.cc
 2, iptv.852851.xyz
 2, love.old-snowflake-b051.workers.dev
@@ -39,4 +40,5 @@ name = Cathy 源
 0, 23.33.29.0/24
 0, 23.39.51.0/24
 0, 23.62.226.0/24
+0, 3.22.103.0/24
 0, 5.182.228.0/24
