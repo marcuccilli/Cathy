@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ad8147ee.cbilant.com",
+        "as01.plinkspile.cc",
+        "beam-images.warnermediacdn.com",
+        "cdn.nl04.plinkspile.cc",
+        "cdn.nodeimage.com",
+        "data.havanagila.workers.dev",
+        "data.jeffreyedwardepstein.workers.dev",
+        "data.manchestercity.workers.dev",
+        "data.netflixservices.workers.dev",
+        "data.ossiketola.workers.dev",
+        "encrypted-tbn0.gstatic.com",
+        "events.waastudios.dpdns.org",
+        "hbmt55gdtp6fvzuq.public.blob.vercel-storage.com",
+        "i.postimg.cc",
+        "iptv.852851.xyz",
+        "love.old-snowflake-b051.workers.dev",
+        "love.smooth-puppy-9643.workers.dev",
+        "netanyahu.indianservers.st",
+        "poster.starhubgo.com",
+        "ppv.waastudios.dpdns.org",
+        "rally-tv-live.akamaized.net",
+        "shalo.amazzin.pw",
+        "shiva.indianservers.st",
+        "static.ppvservices.st"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "104.21.27.0/24",
+        "104.21.51.0/24",
+        "107.148.225.0/24",
+        "172.67.142.0/24",
+        "172.67.215.0/24",
+        "192.142.57.0/24",
+        "194.59.155.0/24",
+        "2.21.22.0/24",
+        "213.109.154.0/24",
+        "23.200.156.0/24",
+        "23.33.29.0/24",
+        "23.39.51.0/24",
+        "23.62.226.0/24",
+        "3.22.103.0/24",
+        "5.182.228.0/24"
+      ]
+    }
+  ]
+}
