@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,as01.plinkspile.cc
 DOMAIN-SUFFIX,beam-images.warnermediacdn.com
 DOMAIN-SUFFIX,cdn.nl04.plinkspile.cc
 DOMAIN-SUFFIX,cdn.nodeimage.com
+DOMAIN-SUFFIX,content.instructables.com
 DOMAIN-SUFFIX,data.havanagila.workers.dev
 DOMAIN-SUFFIX,data.jeffreyedwardepstein.workers.dev
 DOMAIN-SUFFIX,data.manchestercity.workers.dev
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,static.ppvservices.st
 IP-CIDR,104.21.27.0/24
 IP-CIDR,104.21.51.0/24
 IP-CIDR,107.148.225.0/24
+IP-CIDR,108.156.107.0/24
 IP-CIDR,172.67.142.0/24
 IP-CIDR,172.67.215.0/24
 IP-CIDR,192.142.57.0/24
@@ -35,6 +37,7 @@ IP-CIDR,23.200.156.0/24
 IP-CIDR,23.216.5.0/24
 IP-CIDR,23.33.29.0/24
 IP-CIDR,23.39.51.0/24
+IP-CIDR,23.46.23.0/24
 IP-CIDR,23.62.226.0/24
 IP-CIDR,3.22.103.0/24
 IP-CIDR,5.182.228.0/24

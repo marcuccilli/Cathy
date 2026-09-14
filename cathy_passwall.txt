@@ -3,6 +3,7 @@ domain:as01.plinkspile.cc
 domain:beam-images.warnermediacdn.com
 domain:cdn.nl04.plinkspile.cc
 domain:cdn.nodeimage.com
+domain:content.instructables.com
 domain:data.havanagila.workers.dev
 domain:data.jeffreyedwardepstein.workers.dev
 domain:data.manchestercity.workers.dev
@@ -25,6 +26,7 @@ domain:static.ppvservices.st
 104.21.27.0/24
 104.21.51.0/24
 107.148.225.0/24
+108.156.107.0/24
 172.67.142.0/24
 172.67.215.0/24
 192.142.57.0/24
@@ -35,6 +37,7 @@ domain:static.ppvservices.st
 23.216.5.0/24
 23.33.29.0/24
 23.39.51.0/24
+23.46.23.0/24
 23.62.226.0/24
 3.22.103.0/24
 5.182.228.0/24
