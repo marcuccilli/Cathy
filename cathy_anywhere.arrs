@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 44
+# RULES: 49
 
 name = Cathy 源
 2, ad8147ee.cbilant.com
@@ -19,6 +19,7 @@ name = Cathy 源
 2, hbmt55gdtp6fvzuq.public.blob.vercel-storage.com
 2, i.postimg.cc
 2, iptv.852851.xyz
+2, lidqvlau.lunexas.top
 2, love.old-snowflake-b051.workers.dev
 2, love.smooth-puppy-9643.workers.dev
 2, netanyahu.indianservers.st
@@ -27,7 +28,10 @@ name = Cathy 源
 2, rally-tv-live.akamaized.net
 2, shalo.amazzin.pw
 2, shiva.indianservers.st
+2, sleepercdn.com
 2, static.ppvservices.st
+0, 104.18.18.0/24
+0, 104.18.19.0/24
 0, 104.21.27.0/24
 0, 104.21.51.0/24
 0, 107.148.225.0/24
@@ -38,6 +42,7 @@ name = Cathy 源
 0, 194.59.155.0/24
 0, 2.21.22.0/24
 0, 213.109.154.0/24
+0, 213.183.47.0/24
 0, 23.200.156.0/24
 0, 23.216.5.0/24
 0, 23.33.29.0/24
