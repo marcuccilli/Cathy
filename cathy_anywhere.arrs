@@ -1,6 +1,6 @@
 # NAME: Cathy 源
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 628
+# RULES: 629
 
 name = Cathy 源
 2, 0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com
@@ -565,6 +565,7 @@ name = Cathy 源
 0, 23.209.94.0/24
 0, 23.212.185.0/24
 0, 23.216.5.0/24
+0, 23.222.3.0/24
 0, 23.237.104.0/24
 0, 23.239.31.0/24
 0, 23.33.22.0/24
