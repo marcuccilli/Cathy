@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,2978611.3230546409.chartreuse2.space
   - DOMAIN-SUFFIX,3092716.3230546409.celadonfsda3.space
   - DOMAIN-SUFFIX,3fbf38fe.wurl.com
+  - DOMAIN-SUFFIX,4gtvimg2.4gtv.tv
   - DOMAIN-SUFFIX,52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,75943f25.wurl.com
   - DOMAIN-SUFFIX,8.fast.hidns.vip
@@ -71,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp-n9nu6.amagi.tv
   - DOMAIN-SUFFIX,amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp-lir10.amagi.tv
   - DOMAIN-SUFFIX,amg01287-rakutentvjapan-game-cmaf-rakutenjp-95y9n.amagi.tv
+  - DOMAIN-SUFFIX,amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp-ad-sp.amagi.tv
   - DOMAIN-SUFFIX,amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp-c655s.amagi.tv
   - DOMAIN-SUFFIX,amg01287-rakutentvjapan-gravurecmaf-rakutenjp-ad-d2.amagi.tv
   - DOMAIN-SUFFIX,amg01287-rakutentvjapan-gravurecmaf-rakutenjp-as30l.amagi.tv
@@ -145,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,ch2.live
   - DOMAIN-SUFFIX,channel.rakuten.co.jp
   - DOMAIN-SUFFIX,cinelife.com
+  - DOMAIN-SUFFIX,cinevid.st
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net
   - DOMAIN-SUFFIX,content.instructables.com
   - DOMAIN-SUFFIX,cx-live-cdn.tver.jp
@@ -252,6 +255,7 @@ payload:
   - DOMAIN-SUFFIX,fast-channels.sinclairstoryline.com
   - DOMAIN-SUFFIX,fast.hidns.vip
   - DOMAIN-SUFFIX,ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,fightrecord.co.uk
   - DOMAIN-SUFFIX,freqsyndlin.redbull.com
   - DOMAIN-SUFFIX,ftv1.b-cdn.net
   - DOMAIN-SUFFIX,fujitv4.mov3.co
@@ -460,13 +464,16 @@ payload:
   - IP-CIDR,108.156.224.0/24
   - IP-CIDR,108.156.245.0/24
   - IP-CIDR,108.156.85.0/24
+  - IP-CIDR,108.156.91.0/24
   - IP-CIDR,108.157.142.0/24
   - IP-CIDR,108.157.150.0/24
   - IP-CIDR,108.157.153.0/24
+  - IP-CIDR,108.159.227.0/24
   - IP-CIDR,13.224.187.0/24
   - IP-CIDR,13.225.193.0/24
   - IP-CIDR,13.225.196.0/24
   - IP-CIDR,13.225.222.0/24
+  - IP-CIDR,13.225.47.0/24
   - IP-CIDR,13.225.61.0/24
   - IP-CIDR,13.226.49.0/24
   - IP-CIDR,13.226.53.0/24
@@ -480,12 +487,16 @@ payload:
   - IP-CIDR,13.249.78.0/24
   - IP-CIDR,13.249.96.0/24
   - IP-CIDR,13.32.115.0/24
+  - IP-CIDR,13.32.164.0/24
+  - IP-CIDR,13.32.205.0/24
   - IP-CIDR,136.110.193.0/24
   - IP-CIDR,136.158.97.0/24
   - IP-CIDR,136.239.158.0/24
   - IP-CIDR,136.239.173.0/24
   - IP-CIDR,138.199.2.0/24
   - IP-CIDR,138.81.35.0/24
+  - IP-CIDR,142.54.162.0/24
+  - IP-CIDR,143.204.204.0/24
   - IP-CIDR,143.244.60.0/24
   - IP-CIDR,146.75.94.0/24
   - IP-CIDR,148.224.24.0/24
@@ -507,16 +518,29 @@ payload:
   - IP-CIDR,172.67.198.0/24
   - IP-CIDR,172.67.214.0/24
   - IP-CIDR,172.67.215.0/24
+  - IP-CIDR,173.208.146.0/24
+  - IP-CIDR,173.208.150.0/24
+  - IP-CIDR,173.208.169.0/24
+  - IP-CIDR,173.208.177.0/24
   - IP-CIDR,173.208.188.0/24
+  - IP-CIDR,173.208.211.0/24
   - IP-CIDR,173.208.212.0/24
+  - IP-CIDR,173.208.251.0/24
+  - IP-CIDR,18.154.109.0/24
+  - IP-CIDR,18.154.110.0/24
   - IP-CIDR,18.154.185.0/24
   - IP-CIDR,18.154.219.0/24
   - IP-CIDR,18.154.253.0/24
   - IP-CIDR,18.160.102.0/24
+  - IP-CIDR,18.160.200.0/24
+  - IP-CIDR,18.160.213.0/24
   - IP-CIDR,18.160.249.0/24
   - IP-CIDR,18.161.135.0/24
   - IP-CIDR,18.161.156.0/24
   - IP-CIDR,18.161.170.0/24
+  - IP-CIDR,18.172.122.0/24
+  - IP-CIDR,18.172.134.0/24
+  - IP-CIDR,18.172.139.0/24
   - IP-CIDR,18.238.132.0/24
   - IP-CIDR,18.238.169.0/24
   - IP-CIDR,18.239.1.0/24
@@ -527,6 +551,7 @@ payload:
   - IP-CIDR,192.109.138.0/24
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,192.151.152.0/24
+  - IP-CIDR,192.166.82.0/24
   - IP-CIDR,192.187.115.0/24
   - IP-CIDR,192.187.124.0/24
   - IP-CIDR,192.187.98.0/24
@@ -543,7 +568,9 @@ payload:
   - IP-CIDR,199.232.73.0/24
   - IP-CIDR,199.232.74.0/24
   - IP-CIDR,199.232.75.0/24
+  - IP-CIDR,2.16.232.0/24
   - IP-CIDR,2.21.22.0/24
+  - IP-CIDR,2.21.9.0/24
   - IP-CIDR,202.232.224.0/24
   - IP-CIDR,204.12.230.0/24
   - IP-CIDR,204.12.241.0/24
@@ -553,6 +580,7 @@ payload:
   - IP-CIDR,208.110.86.0/24
   - IP-CIDR,213.109.154.0/24
   - IP-CIDR,213.183.47.0/24
+  - IP-CIDR,217.20.50.0/24
   - IP-CIDR,222.85.198.0/24
   - IP-CIDR,222.89.29.0/24
   - IP-CIDR,23.14.92.0/24
@@ -574,13 +602,22 @@ payload:
   - IP-CIDR,23.62.226.0/24
   - IP-CIDR,3.161.213.0/24
   - IP-CIDR,3.161.242.0/24
+  - IP-CIDR,3.162.163.0/24
   - IP-CIDR,3.166.152.0/24
   - IP-CIDR,3.166.96.0/24
+  - IP-CIDR,3.167.138.0/24
+  - IP-CIDR,3.167.152.0/24
+  - IP-CIDR,3.167.163.0/24
   - IP-CIDR,3.167.183.0/24
   - IP-CIDR,3.167.246.0/24
+  - IP-CIDR,3.168.39.0/24
+  - IP-CIDR,3.168.40.0/24
+  - IP-CIDR,3.168.51.0/24
   - IP-CIDR,3.169.149.0/24
+  - IP-CIDR,3.169.155.0/24
   - IP-CIDR,3.170.115.0/24
   - IP-CIDR,3.170.152.0/24
+  - IP-CIDR,3.170.185.0/24
   - IP-CIDR,3.219.155.0/24
   - IP-CIDR,3.22.103.0/24
   - IP-CIDR,34.104.32.0/24
@@ -599,6 +636,7 @@ payload:
   - IP-CIDR,52.85.12.0/24
   - IP-CIDR,52.85.78.0/24
   - IP-CIDR,54.192.100.0/24
+  - IP-CIDR,54.192.55.0/24
   - IP-CIDR,54.230.102.0/24
   - IP-CIDR,54.230.162.0/24
   - IP-CIDR,54.230.253.0/24
@@ -612,6 +650,7 @@ payload:
   - IP-CIDR,74.91.26.0/24
   - IP-CIDR,74.91.31.0/24
   - IP-CIDR,75.2.60.0/24
+  - IP-CIDR,77.72.19.0/24
   - IP-CIDR,77.72.23.0/24
   - IP-CIDR,79.127.243.0/24
   - IP-CIDR,79.127.248.0/24
