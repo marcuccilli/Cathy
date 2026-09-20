@@ -1,7 +1,4 @@
 # NAME: Cathy 源
-# GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 748
-
 name = Cathy 源
 2, 0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com
 2, 10.fast.hidns.vip
@@ -16,6 +13,7 @@ name = Cathy 源
 2, 3fbf38fe.wurl.com
 2, 4gtvimg2.4gtv.tv
 2, 52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
+2, 5393127.axionvex.cc
 2, 5393127.calivorn.cc
 2, 5393127.calovrix.cc
 2, 5393127.jexovryn.cc
@@ -535,6 +533,7 @@ name = Cathy 源
 0, 138.199.2.0/24
 0, 138.81.35.0/24
 0, 142.54.162.0/24
+0, 142.54.168.0/24
 0, 143.204.204.0/24
 0, 143.244.60.0/24
 0, 146.75.93.0/24
@@ -547,6 +546,7 @@ name = Cathy 源
 0, 151.101.64.0/24
 0, 161.129.60.0/24
 0, 168.95.245.0/24
+0, 168.95.246.0/24
 0, 172.110.219.0/24
 0, 172.67.128.0/24
 0, 172.67.133.0/24
@@ -662,6 +662,7 @@ name = Cathy 源
 0, 23.38.160.0/24
 0, 23.39.51.0/24
 0, 23.46.23.0/24
+0, 23.46.30.0/24
 0, 23.47.52.0/24
 0, 23.52.42.0/24
 0, 23.54.40.0/24

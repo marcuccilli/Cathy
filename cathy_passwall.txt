@@ -11,6 +11,7 @@ domain:3203453.3230546409.colby2.space
 domain:3fbf38fe.wurl.com
 domain:4gtvimg2.4gtv.tv
 domain:52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
+domain:5393127.axionvex.cc
 domain:5393127.calivorn.cc
 domain:5393127.calovrix.cc
 domain:5393127.jexovryn.cc
@@ -530,6 +531,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 138.199.2.0/24
 138.81.35.0/24
 142.54.162.0/24
+142.54.168.0/24
 143.204.204.0/24
 143.244.60.0/24
 146.75.93.0/24
@@ -542,6 +544,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 151.101.64.0/24
 161.129.60.0/24
 168.95.245.0/24
+168.95.246.0/24
 172.110.219.0/24
 172.67.128.0/24
 172.67.133.0/24
@@ -657,6 +660,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 23.38.160.0/24
 23.39.51.0/24
 23.46.23.0/24
+23.46.30.0/24
 23.47.52.0/24
 23.52.42.0/24
 23.54.40.0/24
