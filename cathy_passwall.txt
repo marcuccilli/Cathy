@@ -11,7 +11,6 @@ domain:3203453.3230546409.colby2.space
 domain:3fbf38fe.wurl.com
 domain:4gtvimg2.4gtv.tv
 domain:52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com
-domain:5393127.axionvex.cc
 domain:5393127.calivorn.cc
 domain:5393127.calovrix.cc
 domain:5393127.jexovryn.cc
@@ -21,6 +20,7 @@ domain:5393127.netovrix.cc
 domain:5393127.norvixal.cc
 domain:5393127.orvixion.cc
 domain:5393127.oryvixon.cc
+domain:5393127.qiravion.cc
 domain:5393127.quanviro.cc
 domain:5393127.terovixa.cc
 domain:5393127.velovrix.cc
@@ -173,6 +173,7 @@ domain:cinelife.com
 domain:cinevid.st
 domain:citynewsregional.akamaized.net
 domain:content.instructables.com
+domain:crypto.com
 domain:cx-live-cdn.tver.jp
 domain:d11r33s5i066xh.cloudfront.net
 domain:d198ro05q94rc4.cloudfront.net
@@ -472,6 +473,8 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 104.18.19.0/24
 104.18.22.0/24
 104.18.23.0/24
+104.19.222.0/24
+104.19.223.0/24
 104.21.14.0/24
 104.21.19.0/24
 104.21.2.0/24
@@ -531,7 +534,9 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 138.199.2.0/24
 138.81.35.0/24
 142.54.162.0/24
-142.54.168.0/24
+142.54.179.0/24
+143.204.141.0/24
+143.204.142.0/24
 143.204.204.0/24
 143.244.60.0/24
 146.75.93.0/24
@@ -541,6 +546,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 151.101.0.0/24
 151.101.128.0/24
 151.101.192.0/24
+151.101.197.0/24
 151.101.64.0/24
 161.129.60.0/24
 168.95.245.0/24
@@ -591,6 +597,8 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 18.172.122.0/24
 18.172.134.0/24
 18.172.139.0/24
+18.173.251.0/24
+18.173.252.0/24
 18.238.132.0/24
 18.238.169.0/24
 18.239.1.0/24
@@ -640,10 +648,12 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 213.109.154.0/24
 213.183.47.0/24
 217.20.50.0/24
+217.20.52.0/24
 222.85.198.0/24
 222.89.29.0/24
 23.1.255.0/24
 23.14.92.0/24
+23.15.252.0/24
 23.194.127.0/24
 23.200.156.0/24
 23.209.94.0/24
@@ -660,7 +670,6 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 23.38.160.0/24
 23.39.51.0/24
 23.46.23.0/24
-23.46.30.0/24
 23.47.52.0/24
 23.52.42.0/24
 23.54.40.0/24
