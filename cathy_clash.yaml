@@ -151,6 +151,7 @@ payload:
   - DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
   - DOMAIN-SUFFIX,beam-images.warnermediacdn.com
+  - DOMAIN-SUFFIX,blogger.googleusercontent.com
   - DOMAIN-SUFFIX,c.mjh.nz
   - DOMAIN-SUFFIX,canvas-lb.tubitv.com
   - DOMAIN-SUFFIX,cdi.ofiii.com
@@ -288,6 +289,7 @@ payload:
   - DOMAIN-SUFFIX,garysclub.sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,gcore.jsdelivr.net
   - DOMAIN-SUFFIX,go4.pw
+  - DOMAIN-SUFFIX,gvisiontv.channell.my.id
   - DOMAIN-SUFFIX,gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
   - DOMAIN-SUFFIX,hbmt55gdtp6fvzuq.public.blob.vercel-storage.com
   - DOMAIN-SUFFIX,hls-beacons-us.xumo.com
@@ -301,6 +303,7 @@ payload:
   - DOMAIN-SUFFIX,image.p-c2-x.abema-tv.com
   - DOMAIN-SUFFIX,image.xumo.com
   - DOMAIN-SUFFIX,images.foxtv.com
+  - DOMAIN-SUFFIX,images.indihometv.com
   - DOMAIN-SUFFIX,images.now-tv.com
   - DOMAIN-SUFFIX,images.pluto.tv
   - DOMAIN-SUFFIX,images.prismic.io
@@ -454,6 +457,7 @@ payload:
   - DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
   - DOMAIN-SUFFIX,www.bsfuji.tv
   - DOMAIN-SUFFIX,www.cinemax.com
+  - DOMAIN-SUFFIX,www.cnnindonesia.com
   - DOMAIN-SUFFIX,www.samsung.com
   - DOMAIN-SUFFIX,www.stockvoice.tv
   - DOMAIN-SUFFIX,www.sumitomocorp.com
@@ -474,6 +478,8 @@ payload:
   - IP-CIDR,104.18.19.0/24
   - IP-CIDR,104.18.22.0/24
   - IP-CIDR,104.18.23.0/24
+  - IP-CIDR,104.18.8.0/24
+  - IP-CIDR,104.18.9.0/24
   - IP-CIDR,104.21.14.0/24
   - IP-CIDR,104.21.19.0/24
   - IP-CIDR,104.21.2.0/24
@@ -713,6 +719,7 @@ payload:
   - IP-CIDR,52.222.157.0/24
   - IP-CIDR,52.222.205.0/24
   - IP-CIDR,52.222.244.0/24
+  - IP-CIDR,52.37.191.0/24
   - IP-CIDR,52.84.199.0/24
   - IP-CIDR,52.84.20.0/24
   - IP-CIDR,52.84.217.0/24

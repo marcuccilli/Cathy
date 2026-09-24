@@ -150,6 +150,7 @@ domain:atlanticflixtv.online
 domain:bbb-billi-xumo.otteravision.com
 domain:bbb-bowl-xumo.otteravision.com
 domain:beam-images.warnermediacdn.com
+domain:blogger.googleusercontent.com
 domain:c.mjh.nz
 domain:canvas-lb.tubitv.com
 domain:cdi.ofiii.com
@@ -287,6 +288,7 @@ domain:fujitv4.mov3.co
 domain:garysclub.sharewithyou.dpdns.org
 domain:gcore.jsdelivr.net
 domain:go4.pw
+domain:gvisiontv.channell.my.id
 domain:gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
 domain:hbmt55gdtp6fvzuq.public.blob.vercel-storage.com
 domain:hls-beacons-us.xumo.com
@@ -300,6 +302,7 @@ domain:image-resizer-cloud-cdn.api.cms.amdvids.com
 domain:image.p-c2-x.abema-tv.com
 domain:image.xumo.com
 domain:images.foxtv.com
+domain:images.indihometv.com
 domain:images.now-tv.com
 domain:images.pluto.tv
 domain:images.prismic.io
@@ -453,6 +456,7 @@ domain:vs-hls-push-ww-live.akamaized.net
 domain:wurlgameshownetwork.global.transmit.live
 domain:www.bsfuji.tv
 domain:www.cinemax.com
+domain:www.cnnindonesia.com
 domain:www.samsung.com
 domain:www.stockvoice.tv
 domain:www.sumitomocorp.com
@@ -473,6 +477,8 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 104.18.19.0/24
 104.18.22.0/24
 104.18.23.0/24
+104.18.8.0/24
+104.18.9.0/24
 104.21.14.0/24
 104.21.19.0/24
 104.21.2.0/24
@@ -712,6 +718,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 52.222.157.0/24
 52.222.205.0/24
 52.222.244.0/24
+52.37.191.0/24
 52.84.199.0/24
 52.84.20.0/24
 52.84.217.0/24

@@ -152,6 +152,7 @@ name = Cathy 源
 2, bbb-billi-xumo.otteravision.com
 2, bbb-bowl-xumo.otteravision.com
 2, beam-images.warnermediacdn.com
+2, blogger.googleusercontent.com
 2, c.mjh.nz
 2, canvas-lb.tubitv.com
 2, cdi.ofiii.com
@@ -289,6 +290,7 @@ name = Cathy 源
 2, garysclub.sharewithyou.dpdns.org
 2, gcore.jsdelivr.net
 2, go4.pw
+2, gvisiontv.channell.my.id
 2, gvqzylrx77.execute-api.ap-southeast-2.amazonaws.com
 2, hbmt55gdtp6fvzuq.public.blob.vercel-storage.com
 2, hls-beacons-us.xumo.com
@@ -302,6 +304,7 @@ name = Cathy 源
 2, image.p-c2-x.abema-tv.com
 2, image.xumo.com
 2, images.foxtv.com
+2, images.indihometv.com
 2, images.now-tv.com
 2, images.pluto.tv
 2, images.prismic.io
@@ -455,6 +458,7 @@ name = Cathy 源
 2, wurlgameshownetwork.global.transmit.live
 2, www.bsfuji.tv
 2, www.cinemax.com
+2, www.cnnindonesia.com
 2, www.samsung.com
 2, www.stockvoice.tv
 2, www.sumitomocorp.com
@@ -475,6 +479,8 @@ name = Cathy 源
 0, 104.18.19.0/24
 0, 104.18.22.0/24
 0, 104.18.23.0/24
+0, 104.18.8.0/24
+0, 104.18.9.0/24
 0, 104.21.14.0/24
 0, 104.21.19.0/24
 0, 104.21.2.0/24
@@ -714,6 +720,7 @@ name = Cathy 源
 0, 52.222.157.0/24
 0, 52.222.205.0/24
 0, 52.222.244.0/24
+0, 52.37.191.0/24
 0, 52.84.199.0/24
 0, 52.84.20.0/24
 0, 52.84.217.0/24
