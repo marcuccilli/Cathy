@@ -450,6 +450,7 @@ domain:tvpnlogopeu.samsungcloud.tv
 domain:tvpnlogopus.samsungcloud.tv
 domain:twcprod-live.twc-tv.com
 domain:tx-live-cdn.tver.jp
+domain:unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 domain:upload.wikimedia.org
 domain:usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
 domain:vjs.zencdn.net
@@ -718,6 +719,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 45.155.226.0/24
 47.97.252.0/24
 5.182.228.0/24
+50.7.236.0/24
 51.158.145.0/24
 52.1.210.0/24
 52.222.157.0/24

@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,tvpnlogopeu.samsungcloud.tv
 DOMAIN-SUFFIX,tvpnlogopus.samsungcloud.tv
 DOMAIN-SUFFIX,twcprod-live.twc-tv.com
 DOMAIN-SUFFIX,tx-live-cdn.tver.jp
+DOMAIN-SUFFIX,unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 DOMAIN-SUFFIX,upload.wikimedia.org
 DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
 DOMAIN-SUFFIX,vjs.zencdn.net
@@ -718,6 +719,7 @@ IP-CIDR,45.139.122.0/24
 IP-CIDR,45.155.226.0/24
 IP-CIDR,47.97.252.0/24
 IP-CIDR,5.182.228.0/24
+IP-CIDR,50.7.236.0/24
 IP-CIDR,51.158.145.0/24
 IP-CIDR,52.1.210.0/24
 IP-CIDR,52.222.157.0/24

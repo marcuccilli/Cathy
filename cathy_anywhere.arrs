@@ -452,6 +452,7 @@ name = Cathy 源
 2, tvpnlogopus.samsungcloud.tv
 2, twcprod-live.twc-tv.com
 2, tx-live-cdn.tver.jp
+2, unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 2, upload.wikimedia.org
 2, usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
 2, vjs.zencdn.net
@@ -720,6 +721,7 @@ name = Cathy 源
 0, 45.155.226.0/24
 0, 47.97.252.0/24
 0, 5.182.228.0/24
+0, 50.7.236.0/24
 0, 51.158.145.0/24
 0, 52.1.210.0/24
 0, 52.222.157.0/24
