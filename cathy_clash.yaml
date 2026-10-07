@@ -156,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,blogger.googleusercontent.com
   - DOMAIN-SUFFIX,c.mjh.nz
   - DOMAIN-SUFFIX,canvas-lb.tubitv.com
+  - DOMAIN-SUFFIX,cctv.1688848.xyz
   - DOMAIN-SUFFIX,cdi.ofiii.com
   - DOMAIN-SUFFIX,cdn-apne1.tsv2.amagi.tv
   - DOMAIN-SUFFIX,cdn-uw2-prod.tsv2.amagi.tv
@@ -279,6 +280,7 @@ payload:
   - DOMAIN-SUFFIX,english-livebkali.cgtn.com
   - DOMAIN-SUFFIX,epg.112114.xyz
   - DOMAIN-SUFFIX,epg.provider.plex.tv
+  - DOMAIN-SUFFIX,epg.pw
   - DOMAIN-SUFFIX,epg.v1.mk
   - DOMAIN-SUFFIX,epg.yang-1989.xyz
   - DOMAIN-SUFFIX,events.waastudios.dpdns.org
@@ -627,6 +629,7 @@ payload:
   - IP-CIDR,18.65.3.0/24
   - IP-CIDR,181.233.127.0/24
   - IP-CIDR,184.29.30.0/24
+  - IP-CIDR,184.30.148.0/24
   - IP-CIDR,184.34.81.0/24
   - IP-CIDR,185.114.146.0/24
   - IP-CIDR,192.109.138.0/24
@@ -810,6 +813,7 @@ payload:
   - IP-CIDR,89.187.183.0/24
   - IP-CIDR,89.222.120.0/24
   - IP-CIDR,89.37.116.0/24
+  - IP-CIDR,93.189.62.0/24
   - IP-CIDR,99.83.220.0/24
   - IP-CIDR,99.84.210.0/24
   - IP-CIDR,99.84.215.0/24

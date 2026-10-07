@@ -157,6 +157,7 @@ name = Cathy 源
 2, blogger.googleusercontent.com
 2, c.mjh.nz
 2, canvas-lb.tubitv.com
+2, cctv.1688848.xyz
 2, cdi.ofiii.com
 2, cdn-apne1.tsv2.amagi.tv
 2, cdn-uw2-prod.tsv2.amagi.tv
@@ -280,6 +281,7 @@ name = Cathy 源
 2, english-livebkali.cgtn.com
 2, epg.112114.xyz
 2, epg.provider.plex.tv
+2, epg.pw
 2, epg.v1.mk
 2, epg.yang-1989.xyz
 2, events.waastudios.dpdns.org
@@ -628,6 +630,7 @@ name = Cathy 源
 0, 18.65.3.0/24
 0, 181.233.127.0/24
 0, 184.29.30.0/24
+0, 184.30.148.0/24
 0, 184.34.81.0/24
 0, 185.114.146.0/24
 0, 192.109.138.0/24
@@ -811,6 +814,7 @@ name = Cathy 源
 0, 89.187.183.0/24
 0, 89.222.120.0/24
 0, 89.37.116.0/24
+0, 93.189.62.0/24
 0, 99.83.220.0/24
 0, 99.84.210.0/24
 0, 99.84.215.0/24

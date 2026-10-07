@@ -155,6 +155,7 @@ domain:bgdc.live
 domain:blogger.googleusercontent.com
 domain:c.mjh.nz
 domain:canvas-lb.tubitv.com
+domain:cctv.1688848.xyz
 domain:cdi.ofiii.com
 domain:cdn-apne1.tsv2.amagi.tv
 domain:cdn-uw2-prod.tsv2.amagi.tv
@@ -278,6 +279,7 @@ domain:encrypted-tbn0.gstatic.com
 domain:english-livebkali.cgtn.com
 domain:epg.112114.xyz
 domain:epg.provider.plex.tv
+domain:epg.pw
 domain:epg.v1.mk
 domain:epg.yang-1989.xyz
 domain:events.waastudios.dpdns.org
@@ -626,6 +628,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 18.65.3.0/24
 181.233.127.0/24
 184.29.30.0/24
+184.30.148.0/24
 184.34.81.0/24
 185.114.146.0/24
 192.109.138.0/24
@@ -809,6 +812,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 89.187.183.0/24
 89.222.120.0/24
 89.37.116.0/24
+93.189.62.0/24
 99.83.220.0/24
 99.84.210.0/24
 99.84.215.0/24
