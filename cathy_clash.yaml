@@ -154,8 +154,6 @@ payload:
   - DOMAIN-SUFFIX,beam-images.warnermediacdn.com
   - DOMAIN-SUFFIX,bgdc.live
   - DOMAIN-SUFFIX,blogger.googleusercontent.com
-  - DOMAIN-SUFFIX,bp-live4kkeyyc.bestv.cn
-  - DOMAIN-SUFFIX,bp-livewxtytx.bestv.cn
   - DOMAIN-SUFFIX,c.mjh.nz
   - DOMAIN-SUFFIX,canvas-lb.tubitv.com
   - DOMAIN-SUFFIX,cctv.1688848.xyz
@@ -456,7 +454,6 @@ payload:
   - DOMAIN-SUFFIX,tsb-mega.i9.ee
   - DOMAIN-SUFFIX,turnerlive.akamaized.net
   - DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
-  - DOMAIN-SUFFIX,tv-cdn-tx.bestv.cn
   - DOMAIN-SUFFIX,tv-stream-test.daydreamer-json.cc
   - DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
   - DOMAIN-SUFFIX,tvasahi.mov3.co
@@ -528,8 +525,6 @@ payload:
   - IP-CIDR,108.157.150.0/24
   - IP-CIDR,108.157.153.0/24
   - IP-CIDR,108.159.227.0/24
-  - IP-CIDR,123.6.74.0/24
-  - IP-CIDR,124.225.128.0/24
   - IP-CIDR,13.224.187.0/24
   - IP-CIDR,13.225.193.0/24
   - IP-CIDR,13.225.196.0/24
@@ -560,7 +555,6 @@ payload:
   - IP-CIDR,136.239.173.0/24
   - IP-CIDR,138.199.2.0/24
   - IP-CIDR,138.81.35.0/24
-  - IP-CIDR,140.249.117.0/24
   - IP-CIDR,142.54.162.0/24
   - IP-CIDR,142.54.168.0/24
   - IP-CIDR,142.54.178.0/24
@@ -636,8 +630,6 @@ payload:
   - IP-CIDR,18.65.25.0/24
   - IP-CIDR,18.65.3.0/24
   - IP-CIDR,181.233.127.0/24
-  - IP-CIDR,183.214.72.0/24
-  - IP-CIDR,183.61.248.0/24
   - IP-CIDR,184.29.30.0/24
   - IP-CIDR,184.30.148.0/24
   - IP-CIDR,184.34.81.0/24
@@ -684,7 +676,6 @@ payload:
   - IP-CIDR,213.109.154.0/24
   - IP-CIDR,213.183.47.0/24
   - IP-CIDR,217.20.50.0/24
-  - IP-CIDR,220.160.46.0/24
   - IP-CIDR,222.85.198.0/24
   - IP-CIDR,222.89.29.0/24
   - IP-CIDR,23.1.255.0/24
@@ -729,7 +720,6 @@ payload:
   - IP-CIDR,23.47.52.0/24
   - IP-CIDR,23.48.99.0/24
   - IP-CIDR,23.52.42.0/24
-  - IP-CIDR,23.53.127.0/24
   - IP-CIDR,23.54.40.0/24
   - IP-CIDR,23.55.178.0/24
   - IP-CIDR,23.55.236.0/24
@@ -766,7 +756,6 @@ payload:
   - IP-CIDR,32.188.39.0/24
   - IP-CIDR,34.104.32.0/24
   - IP-CIDR,35.71.179.0/24
-  - IP-CIDR,39.175.228.0/24
   - IP-CIDR,43.250.127.0/24
   - IP-CIDR,44.232.114.0/24
   - IP-CIDR,44.233.169.0/24
