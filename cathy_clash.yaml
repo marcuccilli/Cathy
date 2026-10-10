@@ -328,6 +328,7 @@ payload:
   - DOMAIN-SUFFIX,lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
   - DOMAIN-SUFFIX,lge-static.ottera.tv
   - DOMAIN-SUFFIX,lidqvlau.lunexas.top
+  - DOMAIN-SUFFIX,line.dndnscloud.ru
   - DOMAIN-SUFFIX,linear-1071.frequency.stream
   - DOMAIN-SUFFIX,linear-1217.frequency.stream
   - DOMAIN-SUFFIX,linear-796.frequency.stream
@@ -346,6 +347,7 @@ payload:
   - DOMAIN-SUFFIX,love.old-snowflake-b051.workers.dev
   - DOMAIN-SUFFIX,love.smooth-puppy-9643.workers.dev
   - DOMAIN-SUFFIX,m.media-amazon.com
+  - DOMAIN-SUFFIX,mag.gofast-tv.me
   - DOMAIN-SUFFIX,masterpl.hls.nhkworld.jp
   - DOMAIN-SUFFIX,mcdn-01.plutotv.net
   - DOMAIN-SUFFIX,media-osa.hls.nhkworld.jp
@@ -445,6 +447,7 @@ payload:
   - DOMAIN-SUFFIX,stream3.shopch.jp
   - DOMAIN-SUFFIX,streaml01cf.nxtv.jp
   - DOMAIN-SUFFIX,streams.comclark.com
+  - DOMAIN-SUFFIX,taifood-blog.asia
   - DOMAIN-SUFFIX,tbs-live-cdn.tver.jp
   - DOMAIN-SUFFIX,tbs5.mov3.co
   - DOMAIN-SUFFIX,tcl-channel-cdn.ideonow.com
@@ -467,6 +470,7 @@ payload:
   - DOMAIN-SUFFIX,unified-ad-segment-cdn-ak-us-east-2.akamaized.net
   - DOMAIN-SUFFIX,upload.wikimedia.org
   - DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+  - DOMAIN-SUFFIX,vishnu.indianservers.st
   - DOMAIN-SUFFIX,vjs.zencdn.net
   - DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
   - DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
@@ -570,6 +574,7 @@ payload:
   - IP-CIDR,151.101.128.0/24
   - IP-CIDR,151.101.192.0/24
   - IP-CIDR,151.101.64.0/24
+  - IP-CIDR,151.101.74.0/24
   - IP-CIDR,154.6.60.0/24
   - IP-CIDR,16.144.168.0/24
   - IP-CIDR,161.129.60.0/24
@@ -634,6 +639,7 @@ payload:
   - IP-CIDR,184.30.148.0/24
   - IP-CIDR,184.34.81.0/24
   - IP-CIDR,185.114.146.0/24
+  - IP-CIDR,185.243.7.0/24
   - IP-CIDR,192.109.138.0/24
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,192.151.152.0/24
@@ -641,6 +647,8 @@ payload:
   - IP-CIDR,192.187.115.0/24
   - IP-CIDR,192.187.124.0/24
   - IP-CIDR,192.187.98.0/24
+  - IP-CIDR,192.236.222.0/24
+  - IP-CIDR,192.3.110.0/24
   - IP-CIDR,192.53.122.0/24
   - IP-CIDR,194.59.155.0/24
   - IP-CIDR,194.76.0.0/24
@@ -753,6 +761,7 @@ payload:
   - IP-CIDR,3.171.171.0/24
   - IP-CIDR,3.219.155.0/24
   - IP-CIDR,3.22.103.0/24
+  - IP-CIDR,31.43.191.0/24
   - IP-CIDR,32.188.39.0/24
   - IP-CIDR,34.104.32.0/24
   - IP-CIDR,35.71.179.0/24
@@ -809,6 +818,7 @@ payload:
   - IP-CIDR,79.127.223.0/24
   - IP-CIDR,79.127.243.0/24
   - IP-CIDR,79.127.248.0/24
+  - IP-CIDR,81.17.16.0/24
   - IP-CIDR,84.17.44.0/24
   - IP-CIDR,84.17.63.0/24
   - IP-CIDR,89.187.177.0/24

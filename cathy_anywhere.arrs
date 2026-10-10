@@ -329,6 +329,7 @@ name = Cathy 源
 2, lgcp-xumoent-nbcnn-2b7eb.fast.nbcuni.com
 2, lge-static.ottera.tv
 2, lidqvlau.lunexas.top
+2, line.dndnscloud.ru
 2, linear-1071.frequency.stream
 2, linear-1217.frequency.stream
 2, linear-796.frequency.stream
@@ -347,6 +348,7 @@ name = Cathy 源
 2, love.old-snowflake-b051.workers.dev
 2, love.smooth-puppy-9643.workers.dev
 2, m.media-amazon.com
+2, mag.gofast-tv.me
 2, masterpl.hls.nhkworld.jp
 2, mcdn-01.plutotv.net
 2, media-osa.hls.nhkworld.jp
@@ -446,6 +448,7 @@ name = Cathy 源
 2, stream3.shopch.jp
 2, streaml01cf.nxtv.jp
 2, streams.comclark.com
+2, taifood-blog.asia
 2, tbs-live-cdn.tver.jp
 2, tbs5.mov3.co
 2, tcl-channel-cdn.ideonow.com
@@ -468,6 +471,7 @@ name = Cathy 源
 2, unified-ad-segment-cdn-ak-us-east-2.akamaized.net
 2, upload.wikimedia.org
 2, usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+2, vishnu.indianservers.st
 2, vjs.zencdn.net
 2, vs-hls-push-ww-live.akamaized.net
 2, wurlgameshownetwork.global.transmit.live
@@ -571,6 +575,7 @@ name = Cathy 源
 0, 151.101.128.0/24
 0, 151.101.192.0/24
 0, 151.101.64.0/24
+0, 151.101.74.0/24
 0, 154.6.60.0/24
 0, 16.144.168.0/24
 0, 161.129.60.0/24
@@ -635,6 +640,7 @@ name = Cathy 源
 0, 184.30.148.0/24
 0, 184.34.81.0/24
 0, 185.114.146.0/24
+0, 185.243.7.0/24
 0, 192.109.138.0/24
 0, 192.142.57.0/24
 0, 192.151.152.0/24
@@ -642,6 +648,8 @@ name = Cathy 源
 0, 192.187.115.0/24
 0, 192.187.124.0/24
 0, 192.187.98.0/24
+0, 192.236.222.0/24
+0, 192.3.110.0/24
 0, 192.53.122.0/24
 0, 194.59.155.0/24
 0, 194.76.0.0/24
@@ -754,6 +762,7 @@ name = Cathy 源
 0, 3.171.171.0/24
 0, 3.219.155.0/24
 0, 3.22.103.0/24
+0, 31.43.191.0/24
 0, 32.188.39.0/24
 0, 34.104.32.0/24
 0, 35.71.179.0/24
@@ -810,6 +819,7 @@ name = Cathy 源
 0, 79.127.223.0/24
 0, 79.127.243.0/24
 0, 79.127.248.0/24
+0, 81.17.16.0/24
 0, 84.17.44.0/24
 0, 84.17.63.0/24
 0, 89.187.177.0/24
