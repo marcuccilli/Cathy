@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,9d3b46a9.wurl.com
   - DOMAIN-SUFFIX,9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,a.jsrdn.com
+  - DOMAIN-SUFFIX,a1.espncdn.com
   - DOMAIN-SUFFIX,abc-iview-mediapackagestreams-2.akamaized.net
   - DOMAIN-SUFFIX,ad8147ee.cbilant.com
   - DOMAIN-SUFFIX,aenetworks.global.transmit.live
@@ -145,10 +146,14 @@ payload:
   - DOMAIN-SUFFIX,amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv
   - DOMAIN-SUFFIX,amg16186-amg16186c1-amgplt0055.playout.now3.amagi.tv
   - DOMAIN-SUFFIX,amg17560-fcbarcelona-fcbenglishcmag-rakutenjp-k6s0v.amagi.tv
+  - DOMAIN-SUFFIX,api-stg.cloudstreamer.cc
   - DOMAIN-SUFFIX,app.do
   - DOMAIN-SUFFIX,as01.plinkspile.cc
+  - DOMAIN-SUFFIX,assets-us-01.kc-usercontent.com
+  - DOMAIN-SUFFIX,assets.goal.com
   - DOMAIN-SUFFIX,atlanticflixtv.online
   - DOMAIN-SUFFIX,b1gchlogos.xyz
+  - DOMAIN-SUFFIX,barrettmedia.com
   - DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
   - DOMAIN-SUFFIX,beam-images.warnermediacdn.com
@@ -159,7 +164,10 @@ payload:
   - DOMAIN-SUFFIX,cctv.1688848.xyz
   - DOMAIN-SUFFIX,cdi.ofiii.com
   - DOMAIN-SUFFIX,cdn-apne1.tsv2.amagi.tv
+  - DOMAIN-SUFFIX,cdn-cs-images.racer.com
   - DOMAIN-SUFFIX,cdn-uw2-prod.tsv2.amagi.tv
+  - DOMAIN-SUFFIX,cdn.aptoide.com
+  - DOMAIN-SUFFIX,cdn.cms.mtv.hu
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,cdn.mos.cms.futurecdn.net
   - DOMAIN-SUFFIX,cdn.nl04.plinkspile.cc
@@ -179,6 +187,7 @@ payload:
   - DOMAIN-SUFFIX,cinevid.st
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net
   - DOMAIN-SUFFIX,content.instructables.com
+  - DOMAIN-SUFFIX,corporate.comcast.com
   - DOMAIN-SUFFIX,cx-live-cdn.tver.jp
   - DOMAIN-SUFFIX,d11r33s5i066xh.cloudfront.net
   - DOMAIN-SUFFIX,d198ro05q94rc4.cloudfront.net
@@ -204,6 +213,7 @@ payload:
   - DOMAIN-SUFFIX,d1xc25jm9e0l4b.cloudfront.net
   - DOMAIN-SUFFIX,d21vn5eki5qsdi.cloudfront.net
   - DOMAIN-SUFFIX,d21xx25clbv3i1.cloudfront.net
+  - DOMAIN-SUFFIX,d229kpbsb5jevy.cloudfront.net
   - DOMAIN-SUFFIX,d25lps4m0jar17.cloudfront.net
   - DOMAIN-SUFFIX,d276kfco8k209c.cloudfront.net
   - DOMAIN-SUFFIX,d284aawtm5vi48.cloudfront.net
@@ -262,6 +272,7 @@ payload:
   - DOMAIN-SUFFIX,dh18i7whff86v.cloudfront.net
   - DOMAIN-SUFFIX,dhjd4u7ds8bgi.cloudfront.net
   - DOMAIN-SUFFIX,did3h2ysc2rkk.cloudfront.net
+  - DOMAIN-SUFFIX,discgolf.ultiworld.com
   - DOMAIN-SUFFIX,dispatch.fengshows.cn
   - DOMAIN-SUFFIX,dki01q1l7yn3y.cloudfront.net
   - DOMAIN-SUFFIX,dn7vkzd5khpp3.cloudfront.net
@@ -275,6 +286,9 @@ payload:
   - DOMAIN-SUFFIX,dw2m7yrngfg8c.cloudfront.net
   - DOMAIN-SUFFIX,dwamdstream102.akamaized.net
   - DOMAIN-SUFFIX,dzz957bqk62e8.cloudfront.net
+  - DOMAIN-SUFFIX,e0.365dm.com
+  - DOMAIN-SUFFIX,e4d6db0a.ottrast.com
+  - DOMAIN-SUFFIX,eboxcz-ott-images.ssl.cdn.cra.cz
   - DOMAIN-SUFFIX,ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,encrypted-tbn0.gstatic.com
   - DOMAIN-SUFFIX,english-livebkali.cgtn.com
@@ -285,6 +299,7 @@ payload:
   - DOMAIN-SUFFIX,epg.yang-1989.xyz
   - DOMAIN-SUFFIX,events.waastudios.dpdns.org
   - DOMAIN-SUFFIX,ex-live-cdn.tver.jp
+  - DOMAIN-SUFFIX,exchange4media.gumlet.io
   - DOMAIN-SUFFIX,fast-channels.sinclairstoryline.com
   - DOMAIN-SUFFIX,fast.hidns.vip
   - DOMAIN-SUFFIX,ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com
@@ -305,18 +320,23 @@ payload:
   - DOMAIN-SUFFIX,i.imgur.com
   - DOMAIN-SUFFIX,i.mjh.nz
   - DOMAIN-SUFFIX,i.postimg.cc
+  - DOMAIN-SUFFIX,i.ytimg.com
   - DOMAIN-SUFFIX,image-resizer-cloud-cdn.api.cms.amdvids.com
+  - DOMAIN-SUFFIX,image.discovery.indazn.com
   - DOMAIN-SUFFIX,image.p-c2-x.abema-tv.com
   - DOMAIN-SUFFIX,image.xumo.com
   - DOMAIN-SUFFIX,imagedelivery.net
+  - DOMAIN-SUFFIX,images.fancy-shark151.workers.dev
   - DOMAIN-SUFFIX,images.foxtv.com
   - DOMAIN-SUFFIX,images.indihometv.com
   - DOMAIN-SUFFIX,images.now-tv.com
   - DOMAIN-SUFFIX,images.pluto.tv
   - DOMAIN-SUFFIX,images.prismic.io
   - DOMAIN-SUFFIX,images.seeklogo.com
+  - DOMAIN-SUFFIX,images.squarespace-cdn.com
   - DOMAIN-SUFFIX,images.sr.roku.com
   - DOMAIN-SUFFIX,img.cdn.nimg.jp
+  - DOMAIN-SUFFIX,img.mlbstatic.com
   - DOMAIN-SUFFIX,innovationtv.eu
   - DOMAIN-SUFFIX,iptv.852851.xyz
   - DOMAIN-SUFFIX,iptv.yang-1989.xyz
@@ -352,8 +372,14 @@ payload:
   - DOMAIN-SUFFIX,mcdn-01.plutotv.net
   - DOMAIN-SUFFIX,media-osa.hls.nhkworld.jp
   - DOMAIN-SUFFIX,media-tyo.hls.nhkworld.jp
+  - DOMAIN-SUFFIX,media.d3.nhle.com
+  - DOMAIN-SUFFIX,media.nbcsportsphiladelphia.com
+  - DOMAIN-SUFFIX,mediadaily.biz
+  - DOMAIN-SUFFIX,mgpindia.com
   - DOMAIN-SUFFIX,migu.yang-1989.xyz
+  - DOMAIN-SUFFIX,mir-s3-cdn-cf.behance.net
   - DOMAIN-SUFFIX,moviespheregold.com
+  - DOMAIN-SUFFIX,nba.3691065.site
   - DOMAIN-SUFFIX,nerdsthatgeek.com
   - DOMAIN-SUFFIX,netanyahu.indianservers.st
   - DOMAIN-SUFFIX,news.now.com
@@ -368,9 +394,11 @@ payload:
   - DOMAIN-SUFFIX,p14080-live02.videog.jp
   - DOMAIN-SUFFIX,p16-ad-site-sign-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,p16-common-sign.tiktokcdn-eu.com
+  - DOMAIN-SUFFIX,p16-common-sign.tiktokcdn-us.com
   - DOMAIN-SUFFIX,p16-common-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,p19-ad-site-sign-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,p19-common-sign.tiktokcdn-eu.com
+  - DOMAIN-SUFFIX,p19-common-sign.tiktokcdn-us.com
   - DOMAIN-SUFFIX,p19-common-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,pb-0ix3l1oxmg1fj.akamaized.net
   - DOMAIN-SUFFIX,pb-0n3n2ej0w8pl9.akamaized.net
@@ -419,10 +447,12 @@ payload:
   - DOMAIN-SUFFIX,rthktv31-live.akamaized.net
   - DOMAIN-SUFFIX,rthktv32-live.akamaized.net
   - DOMAIN-SUFFIX,rthktv33-live.akamaized.net
+  - DOMAIN-SUFFIX,s10019.cdn.ncms.io
   - DOMAIN-SUFFIX,s10host1.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s12.gifyu.com
   - DOMAIN-SUFFIX,s2host5.localnow.api.cms.amdvids.com
+  - DOMAIN-SUFFIX,s3.glbimg.com
   - DOMAIN-SUFFIX,s8host3.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
   - DOMAIN-SUFFIX,schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com
@@ -434,11 +464,14 @@ payload:
   - DOMAIN-SUFFIX,sleepercdn.com
   - DOMAIN-SUFFIX,slh.kop.homes
   - DOMAIN-SUFFIX,smt.1678520.xyz
+  - DOMAIN-SUFFIX,sportbikesincmag.com
   - DOMAIN-SUFFIX,ssai-variants.streaks.jp
   - DOMAIN-SUFFIX,standards.iso.org
+  - DOMAIN-SUFFIX,static.cdn.turner.com
   - DOMAIN-SUFFIX,static.hbo.com
   - DOMAIN-SUFFIX,static.ppvservices.st
   - DOMAIN-SUFFIX,static.wikia.nocookie.net
+  - DOMAIN-SUFFIX,staticeu.sweet.tv
   - DOMAIN-SUFFIX,staticqbr-prod-nl.gnp.cloud.ziggogo.tv
   - DOMAIN-SUFFIX,statics.tver.jp
   - DOMAIN-SUFFIX,stitcher-ipv4.pluto.tv
@@ -451,6 +484,7 @@ payload:
   - DOMAIN-SUFFIX,tbs-live-cdn.tver.jp
   - DOMAIN-SUFFIX,tbs5.mov3.co
   - DOMAIN-SUFFIX,tcl-channel-cdn.ideonow.com
+  - DOMAIN-SUFFIX,theacc.com
   - DOMAIN-SUFFIX,tlgrm.re
   - DOMAIN-SUFFIX,tpshen.com
   - DOMAIN-SUFFIX,trams.koyeb.app
@@ -474,10 +508,14 @@ payload:
   - DOMAIN-SUFFIX,vjs.zencdn.net
   - DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
   - DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
+  - DOMAIN-SUFFIX,www.bellmedia.ca
   - DOMAIN-SUFFIX,www.bsfuji.tv
   - DOMAIN-SUFFIX,www.cinemax.com
   - DOMAIN-SUFFIX,www.cnnindonesia.com
+  - DOMAIN-SUFFIX,www.mediar.cz
+  - DOMAIN-SUFFIX,www.paramountshop.com
   - DOMAIN-SUFFIX,www.samsung.com
+  - DOMAIN-SUFFIX,www.sportsvideo.org
   - DOMAIN-SUFFIX,www.stockvoice.tv
   - DOMAIN-SUFFIX,www.sumitomocorp.com
   - DOMAIN-SUFFIX,www.w3.org
@@ -637,6 +675,7 @@ payload:
   - IP-CIDR,18.65.3.0/24
   - IP-CIDR,181.233.127.0/24
   - IP-CIDR,184.29.30.0/24
+  - IP-CIDR,184.29.57.0/24
   - IP-CIDR,184.30.148.0/24
   - IP-CIDR,184.34.81.0/24
   - IP-CIDR,185.114.146.0/24
@@ -652,9 +691,11 @@ payload:
   - IP-CIDR,192.3.110.0/24
   - IP-CIDR,192.53.122.0/24
   - IP-CIDR,194.59.155.0/24
+  - IP-CIDR,194.59.59.0/24
   - IP-CIDR,194.76.0.0/24
   - IP-CIDR,195.128.25.0/24
   - IP-CIDR,195.128.27.0/24
+  - IP-CIDR,195.72.191.0/24
   - IP-CIDR,198.204.228.0/24
   - IP-CIDR,198.204.234.0/24
   - IP-CIDR,198.255.87.0/24
@@ -683,6 +724,7 @@ payload:
   - IP-CIDR,207.56.13.0/24
   - IP-CIDR,208.110.86.0/24
   - IP-CIDR,213.109.154.0/24
+  - IP-CIDR,213.183.40.0/24
   - IP-CIDR,213.183.47.0/24
   - IP-CIDR,217.20.50.0/24
   - IP-CIDR,222.85.198.0/24
@@ -721,6 +763,7 @@ payload:
   - IP-CIDR,23.33.85.0/24
   - IP-CIDR,23.38.160.0/24
   - IP-CIDR,23.39.51.0/24
+  - IP-CIDR,23.45.173.0/24
   - IP-CIDR,23.46.23.0/24
   - IP-CIDR,23.46.30.0/24
   - IP-CIDR,23.47.48.0/24
