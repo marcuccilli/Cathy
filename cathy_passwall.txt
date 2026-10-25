@@ -17,6 +17,7 @@ domain:epg.yang-1989.xyz
 domain:events.waastudios.dpdns.org
 domain:fast.hidns.vip
 domain:hoytv-live-stream.hoy.tv
+domain:init.avif
 domain:iptv.yang-1989.xyz
 domain:lidqvlau.lunexas.top
 domain:line.dndnscloud.ru
@@ -40,6 +41,7 @@ domain:rthktv33-live.akamaized.net
 domain:shiva.indianservers.st
 domain:smt.1678520.xyz
 domain:taifood-blog.asia
+domain:testpush.jumpdd.cn
 domain:tplv-tiktokx-origin.image
 domain:vishnu.indianservers.st
 107.148.225.116/32
@@ -47,6 +49,7 @@ domain:vishnu.indianservers.st
 143.244.60.76/32
 161.129.60.242/32
 185.243.7.161/32
+185.6.14.43/32
 192.142.57.233/32
 192.3.110.167/32
 194.59.155.179/32
@@ -69,6 +72,7 @@ domain:vishnu.indianservers.st
 213.183.40.147/32
 213.183.40.227/32
 213.183.47.66/32
+213.183.47.82/32
 5.182.228.11/32
 5.182.231.61/32
 50.7.144.98/32

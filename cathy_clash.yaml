@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,events.waastudios.dpdns.org
   - DOMAIN-SUFFIX,fast.hidns.vip
   - DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv
+  - DOMAIN-SUFFIX,init.avif
   - DOMAIN-SUFFIX,iptv.yang-1989.xyz
   - DOMAIN-SUFFIX,lidqvlau.lunexas.top
   - DOMAIN-SUFFIX,line.dndnscloud.ru
@@ -41,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,shiva.indianservers.st
   - DOMAIN-SUFFIX,smt.1678520.xyz
   - DOMAIN-SUFFIX,taifood-blog.asia
+  - DOMAIN-SUFFIX,testpush.jumpdd.cn
   - DOMAIN-SUFFIX,tplv-tiktokx-origin.image
   - DOMAIN-SUFFIX,vishnu.indianservers.st
   - IP-CIDR,107.148.225.116/32
@@ -48,6 +50,7 @@ payload:
   - IP-CIDR,143.244.60.76/32
   - IP-CIDR,161.129.60.242/32
   - IP-CIDR,185.243.7.161/32
+  - IP-CIDR,185.6.14.43/32
   - IP-CIDR,192.142.57.233/32
   - IP-CIDR,192.3.110.167/32
   - IP-CIDR,194.59.155.179/32
@@ -70,6 +73,7 @@ payload:
   - IP-CIDR,213.183.40.147/32
   - IP-CIDR,213.183.40.227/32
   - IP-CIDR,213.183.47.66/32
+  - IP-CIDR,213.183.47.82/32
   - IP-CIDR,5.182.228.11/32
   - IP-CIDR,5.182.231.61/32
   - IP-CIDR,50.7.144.98/32
