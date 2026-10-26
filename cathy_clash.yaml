@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,168.sryze.cc
   - DOMAIN-SUFFIX,2.fast.hidns.vip
   - DOMAIN-SUFFIX,8.fast.hidns.vip
+  - DOMAIN-SUFFIX,bp-live4kkeyyc.bestv.cn
+  - DOMAIN-SUFFIX,cdi.ofiii.com
   - DOMAIN-SUFFIX,cdn.qd.je
   - DOMAIN-SUFFIX,cdn11.163189.xyz
   - DOMAIN-SUFFIX,cdn12.178.indevs.in
@@ -26,11 +28,15 @@ payload:
   - DOMAIN-SUFFIX,migu.yang-1989.xyz
   - DOMAIN-SUFFIX,nba.3691065.site
   - DOMAIN-SUFFIX,netanyahu.indianservers.st
+  - DOMAIN-SUFFIX,ntdofifreepc-tgc.cdn.hinet.net
+  - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
   - DOMAIN-SUFFIX,p16-common-sign.tiktokcdn-us.com
   - DOMAIN-SUFFIX,p16-common-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,p19-common-sign.tiktokcdn-us.com
   - DOMAIN-SUFFIX,p19-common-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,php.jdshipin.com
+  - DOMAIN-SUFFIX,play-sh13.quklive
+  - DOMAIN-SUFFIX,play-sh13.quklive.com
   - DOMAIN-SUFFIX,ppv.1688848.xyz
   - DOMAIN-SUFFIX,public.accessibility.transcribes
   - DOMAIN-SUFFIX,qitv.fengshows.cn
@@ -42,8 +48,11 @@ payload:
   - DOMAIN-SUFFIX,shiva.indianservers.st
   - DOMAIN-SUFFIX,smt.1678520.xyz
   - DOMAIN-SUFFIX,taifood-blog.asia
+  - DOMAIN-SUFFIX,tencent-stream.kksmg.com
   - DOMAIN-SUFFIX,testpush.jumpdd.cn
   - DOMAIN-SUFFIX,tplv-tiktokx-origin.image
+  - DOMAIN-SUFFIX,tsb-mega.i9.ee
+  - DOMAIN-SUFFIX,tv-cdn-tx.bestv.cn
   - DOMAIN-SUFFIX,vishnu.indianservers.st
   - IP-CIDR,107.148.225.116/32
   - IP-CIDR,138.199.2.40/32
@@ -73,6 +82,7 @@ payload:
   - IP-CIDR,213.183.40.147/32
   - IP-CIDR,213.183.40.227/32
   - IP-CIDR,213.183.47.66/32
+  - IP-CIDR,213.183.47.74/32
   - IP-CIDR,213.183.47.82/32
   - IP-CIDR,5.182.228.11/32
   - IP-CIDR,5.182.231.61/32
@@ -104,9 +114,11 @@ payload:
   - IP-CIDR,89.187.179.73/32
   - IP-CIDR,89.222.120.117/32
   - IP-CIDR,92.119.88.156/32
+  - IP-CIDR,92.119.89.139/32
   - IP-CIDR,92.119.89.235/32
   - IP-CIDR,93.189.56.50/32
   - IP-CIDR,93.189.62.138/32
   - IP-CIDR,93.189.62.162/32
+  - IP-CIDR,93.189.62.186/32
   - IP-CIDR,93.189.62.42/32
   - IP-CIDR,94.249.177.84/32
