@@ -57,6 +57,8 @@ payload:
   - DOMAIN-SUFFIX,tv-cdn-tx.bestv.cn
   - DOMAIN-SUFFIX,vishnu.indianservers.st
   - DOMAIN-SUFFIX,volc-stream.kksmg.com
+  - DOMAIN-SUFFIX,www.caonizuzong.cc.cd
+  - IP-CIDR,103.176.90.131/32
   - IP-CIDR,107.148.225.116/32
   - IP-CIDR,138.199.2.40/32
   - IP-CIDR,143.244.60.76/32
@@ -101,10 +103,13 @@ payload:
   - IP-CIDR,50.7.240.98/32
   - IP-CIDR,77.72.19.10/32
   - IP-CIDR,77.72.19.122/32
+  - IP-CIDR,77.72.19.139/32
   - IP-CIDR,77.72.19.180/32
   - IP-CIDR,77.72.19.242/32
   - IP-CIDR,77.72.19.26/32
   - IP-CIDR,77.72.19.34/32
+  - IP-CIDR,77.72.19.42/32
+  - IP-CIDR,77.72.22.172/32
   - IP-CIDR,77.72.22.3/32
   - IP-CIDR,77.72.23.226/32
   - IP-CIDR,77.72.23.234/32
