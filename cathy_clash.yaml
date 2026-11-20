@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,ch1.live
   - DOMAIN-SUFFIX,ch2.live
   - DOMAIN-SUFFIX,ch3.live
+  - DOMAIN-SUFFIX,d3j8ognbtkmgpl.cloudfront.net
   - DOMAIN-SUFFIX,dispatch.fengshows.cn
   - DOMAIN-SUFFIX,e4d6db0a.ottrast.com
   - DOMAIN-SUFFIX,epg.yang-1989.xyz
@@ -113,6 +114,7 @@ payload:
   - IP-CIDR,5.182.228.211/32
   - IP-CIDR,5.182.228.219/32
   - IP-CIDR,5.182.228.227/32
+  - IP-CIDR,5.182.228.243/32
   - IP-CIDR,5.182.228.251/32
   - IP-CIDR,5.182.228.35/32
   - IP-CIDR,5.182.228.43/32

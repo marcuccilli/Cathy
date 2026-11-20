@@ -17,6 +17,7 @@ name = Cathy 源
 2, ch1.live
 2, ch2.live
 2, ch3.live
+2, d3j8ognbtkmgpl.cloudfront.net
 2, dispatch.fengshows.cn
 2, e4d6db0a.ottrast.com
 2, epg.yang-1989.xyz
@@ -114,6 +115,7 @@ name = Cathy 源
 0, 5.182.228.211/32
 0, 5.182.228.219/32
 0, 5.182.228.227/32
+0, 5.182.228.243/32
 0, 5.182.228.251/32
 0, 5.182.228.35/32
 0, 5.182.228.43/32
