@@ -39,6 +39,8 @@ name = Cathy 源
 2, p19-common-sign.tiktokcdn-us.com
 2, p19-common-sign.tiktokcdn.com
 2, php.jdshipin.com
+2, play-sh-qudao.quklive
+2, play-sh-qudao.quklive.com
 2, play-sh13.quklive
 2, play-sh13.quklive.com
 2, ppv.1688848.xyz
@@ -66,6 +68,8 @@ name = Cathy 源
 0, 138.199.2.40/32
 0, 143.244.60.76/32
 0, 161.129.60.242/32
+0, 185.149.233.121/32
+0, 185.149.233.98/32
 0, 185.243.7.161/32
 0, 185.6.14.43/32
 0, 185.6.14.51/32

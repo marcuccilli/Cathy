@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,p16-common-sign.tiktokcdn.com
 DOMAIN-SUFFIX,p19-common-sign.tiktokcdn-us.com
 DOMAIN-SUFFIX,p19-common-sign.tiktokcdn.com
 DOMAIN-SUFFIX,php.jdshipin.com
+DOMAIN-SUFFIX,play-sh-qudao.quklive
+DOMAIN-SUFFIX,play-sh-qudao.quklive.com
 DOMAIN-SUFFIX,play-sh13.quklive
 DOMAIN-SUFFIX,play-sh13.quklive.com
 DOMAIN-SUFFIX,ppv.1688848.xyz
@@ -64,6 +66,8 @@ IP-CIDR,107.148.225.116/32
 IP-CIDR,138.199.2.40/32
 IP-CIDR,143.244.60.76/32
 IP-CIDR,161.129.60.242/32
+IP-CIDR,185.149.233.121/32
+IP-CIDR,185.149.233.98/32
 IP-CIDR,185.243.7.161/32
 IP-CIDR,185.6.14.43/32
 IP-CIDR,185.6.14.51/32
