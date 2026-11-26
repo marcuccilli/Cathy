@@ -1,29 +1,29 @@
 # Cathy 源 分流规则
 本仓库为自动维护的 IPTV 本机节点白名单+ 自动更新规则分流集，支持 Clash, Mihomo, Surge, Passwall, Sing-box 及 Anywhere。
 
-* 最后更新时间: 2026-11-26 01:11:48
+* 最后更新时间: 2026-11-26 02:23:18
 
 分流列表每24小时自动更新.德国美国节点通用.如有其他格式需求请在issue提供该格式名称以及该格式范本.分流范围：Cathy佬推流,Yang佬,NBA分群,PPV的直播源
 
 源文件地址
 ######## Mihomo/Clash mi ######## MRS格式,需区分域名/cidr.两个mrs文件都需要添加进分流策略
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_mihomo_domain.mrs
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_mihomo_ipcidr.mrs
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_mihomo_domain.mrs
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_mihomo_ipcidr.mrs
 
 ######## Clash/Stash ######## Yaml格式
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_clash.yaml
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_clash.yaml
 
 ######## Surge/Loon/小火箭(shadowrocket)######## list格式
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_surge.list
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_surge.list
 
 ######## Anywhere ######## arrs格式
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_anywhere.arrs
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_anywhere.arrs
 
 ######## Passwall ######## txt格式, 须手动在分流规则分别填写域名和cidr
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_passwall.txt
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_passwall.txt
 
 ######## Sing-box ######## srs格式
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_singbox.srs
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_singbox.srs
 
 ######## Xray ######## json格式
-https://raw.githubusercontent.com/marcuccilli/Cathy/refs/heads/main/cathy_xray.json
+https://raw.githubusercontent.com/marcuccilli/cathy/refs/heads/main/cathy_xray.json
